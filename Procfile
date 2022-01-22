@@ -1,0 +1,1 @@
+web: gunicorn anna_books.wsgi --log-file -
